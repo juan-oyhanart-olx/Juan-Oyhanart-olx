@@ -1,0 +1,28 @@
+1.- Características propias implementadas en OLX (fuera de la implementación típica de ServiceNow)
+
+2.- Metodología de Notificaciones de S.Now standard (creo que estamos pidiendo notificaciones que se pueden manejar de otras formas nativamente)
+
+
+3- Posilidad de establecer aprobaciones, no por modificaciones del flujo, si no por condiciones de datos (por ejemplo dependiendo del CI)
+Por que esta roto que aprueben por CI ? es posible hacerlo por clase de CI ?
+
+4.- Mecanismo internos de la herramienta. Ejemplo, hay procesos que recorren los flujos para cambios de estados o el cambio de una variable genera el cambio de estado.
+
+5.-Por que tenemos flujos independientes para cambios normales / Críticos , cuando podrían ser los mismos con algun branch ... 
+
+6.-  Envio de mail´s, no logro testear los desarrollos pendientes, me guian un poco ?
+
+7.- Integración con Jira, cual es la integración desarrollada o pendiente de desarrollar
+
+Definir los pasos típicos necesarios / recomendados para implementar Incidentes
+
+Integración de usuarios con Bamboo o LDAP
+
+Integración con Puppet (costos SN y Puppet) recomendaciones .. los CI se pueden relacionar, Hay que borrar los actuales ?
+
+Hacer funcionar el Auditoría.
+
+Hacer funcionar el reporting.
+
+Dashboard / view que liste todos los cambios aprobados entre las ultimas 24 hs
+
