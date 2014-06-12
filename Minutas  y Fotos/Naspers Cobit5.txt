@@ -1,0 +1,14 @@
+Poner en los DOC de procesos el Número obtenido en el ejercicio
+
+Donde ponemos los PROCEDIMIENTOS a seguir ante un incidente ?? KnowManagement ??
+
+Comunicar afuera de infra MAS como manejar y ser responsable de las incidencias.
+
+----------------
+PROBLEM
+RCA for Mayor incidents.
+
+HOY Problems están registrados como Incidentes !
+
+KnowErrors 
+

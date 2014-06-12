@@ -1,0 +1,40 @@
+RESUMEN
+1.- Escalación Como funciona (Relación con SLA)
+
+
+2.- Pueden interactuar con el incidente TODOS los del grupo ( Notas) Todos los que tuvieron en algún momento 
+
+3.- Relación de los Ci con Categoría / Sub-Cat
+ Integración de las Categoría / Sub-Cat / CI con Usr y grupos resolución
+CMDB integración con Incidentes .. Clases y Sub Clases (Por que no?) Hay que definir las tabla y relecionar todo ??
+
+4.- Data Center ..OK Uso esa tabla
+
+5.- Que podemos hacer con RCA de Incidencias Críticas ?
+
+6.- Licencias de USR 
+
+7.- Integración con Google .. .que factibilidad le ven.
+ CHAT de la herramienta como funciona (Google ?? )
+
+8.- Que consideraciones tienen para los incidentes críticos (Comité de crisis) ??
+
+
+-Notificaciones
+al 50 y al 75 al tecnico que está asignado
+al 100 al Manager del técnico.
+
+-Tiempos por Prioridad
+Con calendario para el caso de 24h y 8 de trabajo.
+
+-Quien modifica incidentes.
+Visibilidad 
+PODEMOS armar un grupo para todas de las incidencias puede complementar las notas.
+
+Podemos hacer que todos los grupos puedan cargar notas.
+
+3.- Integrar con lo que tiene CMDB.
+
+Busi Tech y app = Capa lógica.
+El resto son = capas físicas.
+
